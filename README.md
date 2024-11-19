@@ -1,6 +1,6 @@
 # Groq AI API with React.js
 
-This is a simple chatbot website use groq.api, a cloud ai server. This web is has a simple UI & function, that we just send a prompt to groq.api and the api send the reply to the web. For styling i use Tailwindcss as utility-framework that make build the modern an clean UI more easy
+This is a simple chatbot website use groq.api, a cloud ai server. This web is has a simple UI & function, that we just send a prompt to groq.api and the api send the reply to the web. For styling i use Tailwindcss as utility-framework that make build the modern and clean UI easier
 
 For started use this repo or start build React.js web integrated with groq.api, please follow quickstart steps below:
 - create apiKey in https://console.groq.com/keys
