@@ -15,4 +15,5 @@ For started use this repo or start build React.js web integrated with groq.api, 
 - for more tailwindcss setup you can visit the documentation https://tailwindcss.com/docs/guides/vite
 - install react-syntax-highlighter to formatting the output
 - npm i react-syntax-highlighter
-- please read & understanding the source code & documentation carefully to gete best result
+- for more setup you can visit the documentation at https://github.com/react-syntax-highlighter/react-syntax-highlighter
+- please read & understanding the source code & documentation carefully to get best result
