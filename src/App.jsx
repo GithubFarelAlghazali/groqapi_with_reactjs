@@ -1,4 +1,3 @@
-import { split } from "postcss/lib/list";
 import "./App.css";
 import { requestToGroq } from "./utils/groq";
 import { useState } from "react";
@@ -13,8 +12,7 @@ function App() {
      const handleSubmit = async () => {
           let dot = ".";
           const load = "Tunggu bentar";
-          // const ai = await requestToGroq(content.value);
-          // setData(ai);
+
           try {
                let outputContent;
                outputContent = "";
@@ -44,8 +42,6 @@ function App() {
                               }
                          }, 500);
                     });
-
-                    // setData(ai);
                }, 500);
           } catch (error) {
                setData("Error", error);
